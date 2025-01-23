@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="XHi7sPEM-U9zCDE1N5MA">
-    <mxGraphModel dx="3381" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4244" dy="2684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,9 @@
             <mxGeometry x="-540" y="-120" width="610" height="600" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Портал для сотрудников ресепшена" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="cxC7L4fK4Pq3liZk7ByL-6">
+        <object placeholders="1" c4Name="Портал &#xa;для сотрудников &#xa;ресепшена" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="cxC7L4fK4Pq3liZk7ByL-6">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="700" y="-120" width="380" height="630" as="geometry" />
+            <mxGeometry x="700" y="-90" width="590" height="630" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Клиент" c4Type="Person" c4Description="Пациент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="cxC7L4fK4Pq3liZk7ByL-8">
@@ -71,7 +71,7 @@
         <mxCell id="cxC7L4fK4Pq3liZk7ByL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cxC7L4fK4Pq3liZk7ByL-15" target="cxC7L4fK4Pq3liZk7ByL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cxC7L4fK4Pq3liZk7ByL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cxC7L4fK4Pq3liZk7ByL-16" target="cxC7L4fK4Pq3liZk7ByL-12" edge="1">
+        <mxCell id="cxC7L4fK4Pq3liZk7ByL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.153;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cxC7L4fK4Pq3liZk7ByL-16" target="cxC7L4fK4Pq3liZk7ByL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cxC7L4fK4Pq3liZk7ByL-22" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;как данные хранятся,&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;периоды и условия уничтожения конфиденциальных данных после обработки,&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;какие способы защиты данных используются при хранении и передаче данных.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -158,7 +158,7 @@
           <mxGeometry x="-940" y="100" width="400" height="210" as="geometry" />
         </mxCell>
         <mxCell id="cxC7L4fK4Pq3liZk7ByL-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Медицинские данные пациента&lt;br&gt;должны шифроваться на уровне БД.&lt;br&gt;А при передаче в брокер должны проходить&lt;br&gt;маскирование&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="490" width="440" height="110" as="geometry" />
+          <mxGeometry x="-760" y="490" width="440" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cxC7L4fK4Pq3liZk7ByL-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;api-сервис на backend&lt;br&gt;сможет поддерживать&lt;br&gt;мобильное приложение,&lt;br&gt;когда оно появится.&lt;br&gt;Можно использовать GraphQL API&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-180" y="180" width="310" height="120" as="geometry" />
@@ -191,11 +191,25 @@
         </mxCell>
         <object placeholders="1" c4Name="Collibra" c4Type="Software System" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="cxC7L4fK4Pq3liZk7ByL-54">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-490" y="750" width="240" height="120" as="geometry" />
+            <mxGeometry x="250" y="1180" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="cxC7L4fK4Pq3liZk7ByL-55" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Предлагается также внедрить инструмент Collibra.&lt;br&gt;Обоснование выбора: нас в особенности интересует Data Lineage&lt;br&gt;т.к. важно понять, что чувствительные данные&lt;br&gt;не &quot;утекут&quot; куда не нужно&lt;br&gt;Также здесь важный фактор - цена. Например,&lt;br&gt;рассматривался вариант с BigID,&lt;br&gt;но на текущий момент компания ее может не потянуть&lt;br&gt;При этом на предыдущем шаге мы уже выполнили тегирование данных,&lt;br&gt;введение инструментов контроля потока данных - логичный следующий шаг&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="900" width="740" height="230" as="geometry" />
+          <mxGeometry x="20" y="1330" width="740" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0JfZG7vG11jRve5XsU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cxC7L4fK4Pq3liZk7ByL-54" target="cxC7L4fK4Pq3liZk7ByL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0JfZG7vG11jRve5XsU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cxC7L4fK4Pq3liZk7ByL-54" target="cxC7L4fK4Pq3liZk7ByL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0JfZG7vG11jRve5XsU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cxC7L4fK4Pq3liZk7ByL-54" target="cxC7L4fK4Pq3liZk7ByL-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1210" />
+              <mxPoint x="670" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
